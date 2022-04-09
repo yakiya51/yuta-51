@@ -1,3 +1,6 @@
-Hello! I like writing Python.  
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuta-51)](https://github.com/yuta-51)  
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta-51&hide=Jupyter%20Notebook)](https://github.com/yuta-51)
+# Hi! I'm a software developer based in California.
+
+## Stuff I Do
+---
+- I work as a full-stack developer using Java and Javascript.
+- Create personal projects using Python for fun.
