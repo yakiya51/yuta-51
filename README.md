@@ -1,4 +1,4 @@
-#Summary
+# Summary
 Hi! I'm a software developer based in California.
 
 ## Stuff I Do
